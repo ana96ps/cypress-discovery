@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Tony Stark",
+        "cpf": "00000014141",
+        "email": "tonystark@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "addressNumber": "1000",
+            "addressDetails": "apto 142",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "deliveryMethod": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Steve Rogers",
+        "cpf": "000000141XX",
+        "email": "steverogers@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "addressNumber": "1000",
+            "addressDetails": "apto 142",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "deliveryMethod": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Natasha Romanoff",
+        "cpf": "00000014141",
+        "email": "natyromanoff.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "addressNumber": "1000",
+            "addressDetails": "apto 142",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
